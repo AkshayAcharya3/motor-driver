@@ -1,6 +1,6 @@
 # PCB Design Project
 
-![PCB Design](./7b66f1c4-30f2-4f23-82ea-1e7ab03354b2.png)
+![PCB Design]([./7b66f1c4-30f2-4f23-82ea-1e7ab03354b2.png](https://github.com/AkshayAcharya3/motor-driver/blob/main/MOTORDRIVE1.png])
 
 ## Overview
 This is a custom PCB design featuring:
